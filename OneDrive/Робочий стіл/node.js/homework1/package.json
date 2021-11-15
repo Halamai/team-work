@@ -1,0 +1,19 @@
+{
+  "name": "hw1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "start:dev": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.15",
+    "path": "^0.12.7",
+    "validator": "^13.7.0",
+    "yargs": "^17.2.1"
+  }
+}
